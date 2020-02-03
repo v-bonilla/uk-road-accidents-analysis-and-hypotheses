@@ -5,7 +5,7 @@
 Contributors to this project are:
 - Hannes Kastenhuber
 - Benjamin Baxter
-- Victor Bonilla Pardo
+- Victor Bonilla
 - Luxman Elangeswaralingam
 - Konstantinos Kompogiannopoulos
 - Aiden Aslam
@@ -37,7 +37,7 @@ This report considers ‘Cross-Industry Standard Process for Data Mining’ (CRI
 
 The data of the project is gathered from an unique source:
 
-UK Department for Transport. [Road safety data](data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data"), 2016.
+- UK Department for Transport. [Road safety data](https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data), 2016.
 
 ## Files in this project
 
