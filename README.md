@@ -1,4 +1,4 @@
-# A brief analysis on the UK road accidents data and testing of hypotheses
+# A brief analysis of the UK road accidents data and testing of hypotheses
 ### Team Dataholics - Coursework for Practical Business Analytics
 ### MSc. in Data Science 2019/20 - University of Surrey
 
